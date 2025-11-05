@@ -1,5 +1,3 @@
-package Main;
-
 public class APCalendar {
 
     private static boolean isLeapYear(int year){
