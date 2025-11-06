@@ -1,3 +1,8 @@
 public class Main {
-    r
+    public static void main(String[] args) {
+        System.out.println(APCalendar.numberOfLeapYears(2016, 2024));
+        System.out.println(APCalendar.dayOfWeek(1, 5, 2019));
+        System.out.println(APCalendar.dayOfWeek(1, 10, 2019));
+        System.out.println(APCalendar.dayOfWeek(1, 6, 2019));
+    }
 }
